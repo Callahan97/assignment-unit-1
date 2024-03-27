@@ -7,12 +7,22 @@ main{
     background-color: goldenrod;
 }
 /* Align the h1 containing your name in the center of the header*/
-
+.Name{
+    text-align: center;
+}
 /* Make your p tag a different color and italic */
-
+.Quote{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
 /* Put a border around your image */
-
+img{
+    border: 10px solid #556B2F;
+}
 /* Change the font-family of your list */
+ul{
+    font-family:fantasy;
+}
 
 /* Add a background color to the footer element */
 footer{
